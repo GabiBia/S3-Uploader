@@ -1,0 +1,1 @@
+This script allows you to upload a file into your S3 bucket
